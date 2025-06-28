@@ -1,0 +1,478 @@
+{
+  "test_0": {
+    "llm_calls": 13,
+    "total_tokens": 728
+  },
+  "test_5": {
+    "llm_calls": 13,
+    "total_tokens": 1209
+  },
+  "test_16": {
+    "llm_calls": 31,
+    "total_tokens": 3751
+  },
+  "test_19": {
+    "llm_calls": 16,
+    "total_tokens": 2112
+  },
+  "test_27": {
+    "llm_calls": 13,
+    "total_tokens": 1417
+  },
+  "test_39": {
+    "llm_calls": 35,
+    "total_tokens": 7945
+  },
+  "test_51": {
+    "llm_calls": 13,
+    "total_tokens": 1443
+  },
+  "test_52": {
+    "llm_calls": 11,
+    "total_tokens": 2134
+  },
+  "test_64": {
+    "llm_calls": 10,
+    "total_tokens": 570
+  },
+  "test_67": {
+    "llm_calls": 19,
+    "total_tokens": 2318
+  },
+  "test_75": {
+    "llm_calls": 41,
+    "total_tokens": 8446
+  },
+  "test_97": {
+    "llm_calls": 19,
+    "total_tokens": 1862
+  },
+  "test_114": {
+    "llm_calls": 16,
+    "total_tokens": 1376
+  },
+  "test_131": {
+    "llm_calls": 16,
+    "total_tokens": 1552
+  },
+  "test_154": {
+    "llm_calls": 19,
+    "total_tokens": 3021
+  },
+  "test_177": {
+    "llm_calls": 22,
+    "total_tokens": 2640
+  },
+  "test_204": {
+    "llm_calls": 26,
+    "total_tokens": 5616
+  },
+  "test_213": {
+    "llm_calls": 16,
+    "total_tokens": 1280
+  },
+  "test_225": {
+    "llm_calls": 10,
+    "total_tokens": 680
+  },
+  "test_255": {
+    "llm_calls": 7,
+    "total_tokens": 560
+  },
+  "test_259": {
+    "llm_calls": 51,
+    "total_tokens": 14025
+  },
+  "test_294": {
+    "llm_calls": 16,
+    "total_tokens": 1856
+  },
+  "test_298": {
+    "llm_calls": 25,
+    "total_tokens": 3500
+  },
+  "test_321": {
+    "llm_calls": 16,
+    "total_tokens": 2016
+  },
+  "test_330": {
+    "llm_calls": 31,
+    "total_tokens": 3100
+  },
+  "test_349": {
+    "llm_calls": 22,
+    "total_tokens": 2090
+  },
+  "test_351": {
+    "llm_calls": 16,
+    "total_tokens": 1456
+  },
+  "test_354": {
+    "llm_calls": 10,
+    "total_tokens": 750
+  },
+  "test_389": {
+    "llm_calls": 34,
+    "total_tokens": 3400
+  },
+  "test_392": {
+    "llm_calls": 25,
+    "total_tokens": 4600
+  },
+  "test_395": {
+    "llm_calls": 16,
+    "total_tokens": 1424
+  },
+  "test_429": {
+    "llm_calls": 37,
+    "total_tokens": 4773
+  },
+  "test_573": {
+    "llm_calls": 32,
+    "total_tokens": 8352
+  },
+  "test_590": {
+    "llm_calls": 38,
+    "total_tokens": 6992
+  },
+  "test_599": {
+    "llm_calls": 16,
+    "total_tokens": 1280
+  },
+  "test_647": {
+    "llm_calls": 25,
+    "total_tokens": 3500
+  },
+  "test_788": {
+    "llm_calls": 22,
+    "total_tokens": 2002
+  },
+  "test_817": {
+    "llm_calls": 13,
+    "total_tokens": 1768
+  },
+  "test_820": {
+    "llm_calls": 16,
+    "total_tokens": 1584
+  },
+  "test_821": {
+    "llm_calls": 36,
+    "total_tokens": 10044
+  },
+  "test_823": {
+    "llm_calls": 16,
+    "total_tokens": 1696
+  },
+  "test_825": {
+    "llm_calls": 122,
+    "total_tokens": 91744
+  },
+  "test_827": {
+    "llm_calls": 39,
+    "total_tokens": 11193
+  },
+  "test_830": {
+    "llm_calls": 37,
+    "total_tokens": 3515
+  },
+  "test_833": {
+    "llm_calls": 10,
+    "total_tokens": 670
+  },
+  "test_835": {
+    "llm_calls": 29,
+    "total_tokens": 2755
+  },
+  "test_837": {
+    "llm_calls": 28,
+    "total_tokens": 3556
+  },
+  "test_838": {
+    "llm_calls": 29,
+    "total_tokens": 0
+  },
+  "test_839": {
+    "llm_calls": 10,
+    "total_tokens": 610
+  },
+  "test_843": {
+    "llm_calls": 31,
+    "total_tokens": 3751
+  },
+  "test_847": {
+    "llm_calls": 20,
+    "total_tokens": 2600
+  },
+  "test_851": {
+    "llm_calls": 23,
+    "total_tokens": 4853
+  },
+  "test_862": {
+    "llm_calls": 13,
+    "total_tokens": 975
+  },
+  "test_863": {
+    "llm_calls": 4,
+    "total_tokens": 368
+  },
+  "test_866": {
+    "llm_calls": 64,
+    "total_tokens": 30144
+  },
+  "test_870": {
+    "llm_calls": 63,
+    "total_tokens": 38367
+  },
+  "test_876": {
+    "llm_calls": 31,
+    "total_tokens": 4216
+  },
+  "test_879": {
+    "llm_calls": 22,
+    "total_tokens": 1364
+  },
+  "test_893": {
+    "llm_calls": 10,
+    "total_tokens": 880
+  },
+  "test_901": {
+    "llm_calls": 13,
+    "total_tokens": 1326
+  },
+  "test_911": {
+    "llm_calls": 16,
+    "total_tokens": 0
+  },
+  "test_924": {
+    "llm_calls": 13,
+    "total_tokens": 962
+  },
+  "test_925": {
+    "llm_calls": 41,
+    "total_tokens": 10865
+  },
+  "test_927": {
+    "llm_calls": 13,
+    "total_tokens": 1456
+  },
+  "test_929": {
+    "llm_calls": 126,
+    "total_tokens": 109872
+  },
+  "test_930": {
+    "llm_calls": 25,
+    "total_tokens": 2275
+  },
+  "test_935": {
+    "llm_calls": 4,
+    "total_tokens": 356
+  },
+  "test_938": {
+    "llm_calls": 7,
+    "total_tokens": 553
+  },
+  "test_941": {
+    "llm_calls": 72,
+    "total_tokens": 9720
+  },
+  "test_943": {
+    "llm_calls": 13,
+    "total_tokens": 1326
+  },
+  "test_946": {
+    "llm_calls": 13,
+    "total_tokens": 897
+  },
+  "test_947": {
+    "llm_calls": 22,
+    "total_tokens": 2156
+  },
+  "test_948": {
+    "llm_calls": 16,
+    "total_tokens": 1280
+  },
+  "test_949": {
+    "llm_calls": 62,
+    "total_tokens": 13826
+  },
+  "test_951": {
+    "llm_calls": 16,
+    "total_tokens": 832
+  },
+  "test_956": {
+    "llm_calls": 48,
+    "total_tokens": 12000
+  },
+  "test_960": {
+    "llm_calls": 28,
+    "total_tokens": 2324
+  },
+  "test_963": {
+    "llm_calls": 7,
+    "total_tokens": 875
+  },
+  "test_965": {
+    "llm_calls": 20,
+    "total_tokens": 3180
+  },
+  "test_966": {
+    "llm_calls": 16,
+    "total_tokens": 1568
+  },
+  "test_968": {
+    "llm_calls": 19,
+    "total_tokens": 722
+  },
+  "test_974": {
+    "llm_calls": 22,
+    "total_tokens": 1650
+  },
+  "test_975": {
+    "llm_calls": 28,
+    "total_tokens": 4284
+  },
+  "test_976": {
+    "llm_calls": 23,
+    "total_tokens": 4071
+  },
+  "test_981": {
+    "llm_calls": 119,
+    "total_tokens": 104244
+  },
+  "test_984": {
+    "llm_calls": 4,
+    "total_tokens": 436
+  },
+  "test_985": {
+    "llm_calls": 25,
+    "total_tokens": 2425
+  },
+  "test_986": {
+    "llm_calls": 41,
+    "total_tokens": 7462
+  },
+  "test_988": {
+    "llm_calls": 23,
+    "total_tokens": 3611
+  },
+  "test_993": {
+    "llm_calls": 10,
+    "total_tokens": 960
+  },
+  "test_996": {
+    "llm_calls": 19,
+    "total_tokens": 0
+  },
+  "test_1000": {
+    "llm_calls": 39,
+    "total_tokens": 8970
+  },
+  "test_1003": {
+    "llm_calls": 13,
+    "total_tokens": 0
+  },
+  "test_1005": {
+    "llm_calls": 26,
+    "total_tokens": 4602
+  },
+  "test_1011": {
+    "llm_calls": 34,
+    "total_tokens": 4794
+  },
+  "test_1015": {
+    "llm_calls": 29,
+    "total_tokens": 4640
+  },
+  "test_1016": {
+    "llm_calls": 25,
+    "total_tokens": 2275
+  },
+  "test_1017": {
+    "llm_calls": 16,
+    "total_tokens": 1360
+  },
+  "test_1018": {
+    "llm_calls": 16,
+    "total_tokens": 1152
+  },
+  "test_1020": {
+    "llm_calls": 56,
+    "total_tokens": 10640
+  },
+  "test_1027": {
+    "llm_calls": 30,
+    "total_tokens": 7440
+  },
+  "test_1028": {
+    "llm_calls": 19,
+    "total_tokens": 2679
+  },
+  "test_1032": {
+    "llm_calls": 39,
+    "total_tokens": 12792
+  },
+  "test_1034": {
+    "llm_calls": 48,
+    "total_tokens": 12288
+  },
+  "test_1035": {
+    "llm_calls": 35,
+    "total_tokens": 5810
+  },
+  "test_1039": {
+    "llm_calls": 82,
+    "total_tokens": 36654
+  },
+  "test_1041": {
+    "llm_calls": 51,
+    "total_tokens": 10659
+  },
+  "test_1045": {
+    "llm_calls": 7,
+    "total_tokens": 574
+  },
+  "test_1047": {
+    "llm_calls": 10,
+    "total_tokens": 1270
+  },
+  "test_1049": {
+    "llm_calls": 25,
+    "total_tokens": 0
+  },
+  "test_1065": {
+    "llm_calls": 16,
+    "total_tokens": 2208
+  },
+  "test_1066": {
+    "llm_calls": 16,
+    "total_tokens": 1344
+  },
+  "test_1067": {
+    "llm_calls": 19,
+    "total_tokens": 1786
+  },
+  "test_1069": {
+    "llm_calls": 63,
+    "total_tokens": 20160
+  },
+  "test_1076": {
+    "llm_calls": 13,
+    "total_tokens": 923
+  },
+  "test_1079": {
+    "llm_calls": 10,
+    "total_tokens": 680
+  },
+  "test_1080": {
+    "llm_calls": 13,
+    "total_tokens": 0
+  },
+  "test_1085": {
+    "llm_calls": 70,
+    "total_tokens": 0
+  },
+  "test_1088": {
+    "llm_calls": 7,
+    "total_tokens": 560
+  }
+}
