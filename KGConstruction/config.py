@@ -4,8 +4,8 @@ GRAPH_URI = ""
 GRAPH_USER = ""                
 GRAPH_PASSWORD = ""  
 
-MONGO_URI = "mongodb://127.0.0.1:27017"
-DB_CLIENT = "medical_db"
-STATPEARLS_COLLECTION = "statpearls_chunks_collection"
+MONGO_URI = ""
+DB_CLIENT = ""
+STATPEARLS_COLLECTION = ""
 
 OPENAI_API_KEY = ""

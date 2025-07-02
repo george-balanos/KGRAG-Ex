@@ -8,6 +8,9 @@ def fetch_all_chunks():
     db = client[DB_CLIENT]
     collection = db[STATPEARLS_COLLECTION]
 
+    print(DB_CLIENT)
+    print(STATPEARLS_COLLECTION)
+
     documents = list(collection.find({"chunk_text": {"$exists": True, "$ne": ""}}))
 
     client.close()

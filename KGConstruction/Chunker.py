@@ -13,6 +13,10 @@ class ChunkUploader:
         """
         Initializes the ChunkUploader class with the given parameters.
         """
+
+        print(DB_CLIENT)
+        print(STATPEARLS_COLLECTION)
+
         self.directory = directory
         self.db_name = db_name
         self.collection_name = collection_name
@@ -76,7 +80,11 @@ class ChunkUploader:
                     for line in f:
                         try:
                             doc = json.loads(line)
-                            text = doc.get("content", "")
+                            # Correct key name
+                            text_parts = [doc.get(k, "") for k in ("title", "abstract", "body")]
+                            text = "\n\n".join([part for part in text_parts if part.strip()])
+
+                            print(text)
 
                             if not text:
                                 print(f"⚠️ Skipping document with no content: {doc.get('_id', 'No ID')}")
@@ -113,7 +121,8 @@ class ChunkUploader:
 
         print("✅ All files uploaded successfully.")
 
+
 if __name__ == "__main__":
-    chunks_dir = "statpearls_NBK430685/chunk"
+    chunks_dir = "statpearls_NBK430685/chunks"
     uploader = ChunkUploader(directory=chunks_dir, chunk_size=600, overlap=100)
     uploader.upload_chunks()
