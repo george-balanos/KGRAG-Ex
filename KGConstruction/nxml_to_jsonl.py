@@ -35,7 +35,7 @@ def convert_to_individual_jsonl(input_dir):
     output_dir = os.path.join(input_dir, "chunks")
     os.makedirs(output_dir, exist_ok=True)
 
-    nxml_files = glob(os.path.join(input_dir, '*.nxml'))
+    nxml_files = glob(os.path.join(input_dir, '**', '*.nxml'), recursive=True)
     for file_path in nxml_files:
         article = parse_nxml(file_path)
         if article:
@@ -48,3 +48,4 @@ def convert_to_individual_jsonl(input_dir):
 if __name__ == "__main__":
     input_dir = 'statpearls_NBK430685'
     convert_to_individual_jsonl(input_dir)
+    print("here")

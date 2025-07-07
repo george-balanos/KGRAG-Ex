@@ -1,4 +1,4 @@
-SIMILARITY_MODEL = "all-MiniLM-L6-v2"
+SIMILARITY_MODEL = ""
 
 GRAPH_URI = ""  
 GRAPH_USER = ""                
